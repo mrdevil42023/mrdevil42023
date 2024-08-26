@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/mrdevil42023/mrdevil42023/blob/main/MrDevil.webp"/>
+<img align="right" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://github.com/mrdevil42023/mrdevil42023/blob/main/MrDevil.webp"/>
+
+
 <br/>
 🔭 I’m currently working on telegram & discord bot's <br>👯 I’m looking for  collaborate to make telegram & discord bot's <br>🌱 I’m currently learning java,javascript & html<br>⚡ Fun fact that I leaned everything myself 😁👍
 
@@ -16,7 +18,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mrdevil42023&icon=5&color=2)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats:
+<img align="right" height="295px" width="427px" alt="𝙶𝙸𝙵" src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Devil.gif"/>
+
+<h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Stats.webp" width="57px"> GitHub Stats: </h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=mrdevil42023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrdevil42023&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevil42023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
