@@ -22,12 +22,13 @@
 
 <h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Stats.webp" width="57px"> GitHub Stats: </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=mrdevil42023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrdevil42023&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevil42023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mrdevil42023&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrdevil42023&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevil42023&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrdevil42023&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mrdevil42023&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+
 
 
   ## 💰 You can help me by Donating
