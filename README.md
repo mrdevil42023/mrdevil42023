@@ -9,7 +9,8 @@
 🔭 I’m currently working on telegram & discord bot's <br>👯 I’m looking for  collaborate to make telegram & discord bot's <br>🌱 I’m currently learning java,javascript & html<br>⚡ Fun fact that I leaned everything myself 😁👍
 
 
-## 🌐 Socials:
+<h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/SocialDevil.gif" width="57px"> Socials: </h1>
+
 [![Telegram](https://img.shields.io/badge/Telegram-%234285F4.svg?logo=telegram&logoColor=white)](http://t.me/mrdevil12) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://Discordapp.com/users/1193843296515145822) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrdevil0666) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrdevil0666) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrdevil1864) 
 
 
