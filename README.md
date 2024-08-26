@@ -18,7 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mrdevil42023&icon=5&color=2)](https://visitcount.itsvg.in)
 
-<img align="right" height="295px" width="427px" alt="𝙶𝙸𝙵" src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Devil.gif"/>
 
 <h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Stats.webp" width="57px"> GitHub Stats: </h1>
 
