@@ -5,7 +5,7 @@
 
 <br>
 
-<<p>
+<p>
 Learning full-stack development, building apps and bots,
 <br>
 and working toward becoming a software engineer.
