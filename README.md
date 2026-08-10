@@ -1,38 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mr Devil</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:120000,100:8B0000&height=8&section=header" width="100%">
 
-# 💫 About Me:
-<img align="right" height="250px" width="250px" alt="𝙶𝙸𝙵" src="https://github.com/mrdevil42023/mrdevil42023/blob/main/MrDevil.webp"/>
+<br>
 
+# KAILASH
 
-<br/>
-🔭 I’m currently working on telegram & discord bot's <br>👯 I’m looking for  collaborate to make telegram & discord bot's <br>🌱 I’m currently learning java,javascript & html<br>⚡ Fun fact that I leaned everything myself 😁👍
+### FULL-STACK DEVELOPER
 
+<p>
+Learning full-stack development, building apps and bots,
+<br>
+and working toward becoming a software engineer.
+</p>
 
-<h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/SocialDevil.gif" width="57px"> Socials: </h1>
-
-[![Telegram](https://img.shields.io/badge/Telegram-%234285F4.svg?logo=telegram&logoColor=white)](http://t.me/mrdevil12) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://Discordapp.com/users/1193843296515145822) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mrdevil0666) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mrdevil0666) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrdevil1864) 
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=mrdevil42023&icon=5&color=2)](https://visitcount.itsvg.in)
 
+## 01 / SKILLS
 
-<h1> <img src="https://github.com/mrdevil42023/mrdevil42023/blob/main/Stats.webp" width="57px"> GitHub Stats: </h1>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mrdevil42023&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrdevil42023&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdevil42023&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="42"><br>Python | <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="42"><br>TypeScript | <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="42"><br>JavaScript | <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"><br>React |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"><br>React Native | <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="42"><br>Supabase | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="42"><br>Git | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"><br>GitHub |
+| <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42"><br>SQL | 📱<br>Telegram Bots | | |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrdevil42023&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
+---
 
+## 02 / GITHUB ACTIVITY
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrdevil) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img
+  src="https://streak-stats.demolab.com?user=mrdevil42023&theme=dark&hide_border=true&background=050505&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
+  width="80%"
+  alt="GitHub Contribution Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mrdevil42023&bg_color=050505&color=FFFFFF&line=FF2020&point=FF4040&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
+  width="95%"
+  alt="GitHub Contribution Activity"
+/>
+
+</div>
+---
+
+<div align="center">
+
+<a href="https://github.com/mrdevil42023">
+
+<img src="https://img.shields.io/badge/GITHUB-@mrdevil42023-050505?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505" alt="GitHub profile" />
+
+</a>
+
+<br><br>
+
+### BUILD · LEARN · SHIP · REPEAT
+
+</div>
