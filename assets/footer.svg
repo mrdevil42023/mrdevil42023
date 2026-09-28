@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="182" viewBox="0 0 960 182" role="img" aria-labelledby="title">
+<title id="title">Footer</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121322"/><stop offset=".55" stop-color="#11111c"/><stop offset="1" stop-color="#231324"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#d75689" stop-opacity=".36"/><stop offset="1" stop-color="#d75689" stop-opacity="0"/></radialGradient>
+<radialGradient id="blue"><stop stop-color="#7770d8" stop-opacity=".3"/><stop offset="1" stop-color="#7770d8" stop-opacity="0"/></radialGradient>
+<linearGradient id="glass" x2=".7" y2="1"><stop stop-color="#ffffff" stop-opacity=".13"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".04"/><stop offset="1" stop-color="#ffffff" stop-opacity=".07"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#ffffff" stop-opacity="0"/><stop offset=".45" stop-color="#ffffff" stop-opacity=".55"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="clip"><rect width="960" height="182" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#clip)"><rect width="960" height="182" fill="url(#bg)"/><ellipse cx="840" cy="127.39999999999999" rx="380" ry="290" fill="url(#orb)"/><ellipse cx="70" cy="20" rx="340" ry="290" fill="url(#blue)"/><rect x="16" y="16" width="928" height="150" rx="22" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".18"/><path d="M 38 17 H 922" stroke="url(#edge)"/><text x="480" y="62" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" text-anchor="middle" letter-spacing="3">BUILD · LEARN · SHIP · REPEAT</text><text x="480" y="100" fill="#c8bed5" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="middle">Find my projects and follow the journey on GitHub.</text><text x="480" y="139" fill="#f1b8d6" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="middle">@mrdevil42023  ↗</text></g></svg>
