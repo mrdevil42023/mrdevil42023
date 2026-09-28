@@ -1,31 +1,72 @@
-<!-- Upload this README.md and the assets folder to your profile repository. -->
+<div align="center">
 
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Kailash — learning full-stack development, building apps and bots, and working toward becoming a software engineer." />
+<!-- 1. ANIMATED WAVING GRADIENT HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:120000,70:500000,100:8B0000&height=180&section=header&text=KAILASH&fontSize=52&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=62&descAlign=50" width="100%" />
+
+<br>
+
+<p>
+Learning full-stack development, building apps and bots,
+<br>
+and working toward becoming a software engineer.
 </p>
 
-<p align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Skills: Python, TypeScript, JavaScript, React, React Native, Supabase, Git, GitHub, SQL, Windows, and Linux. Always learning." />
-</p>
 
-<p align="center">
-  <img src="./assets/activity.svg" width="100%" alt="02 / GitHub activity — small commits, steady progress." />
-</p>
+<!-- 3. ANIMATED GLOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <a href="https://github.com/mrdevil42023">
-    <img src="https://streak-stats.demolab.com?user=mrdevil42023&amp;theme=dark&amp;hide_border=false&amp;border=494052&amp;border_radius=20&amp;background=171522&amp;ring=EFB4D0&amp;fire=EFB4D0&amp;currStreakLabel=EFB4D0&amp;sideLabels=D1CCDF&amp;currStreakNum=F5F3FF&amp;sideNums=F5F3FF&amp;dates=B6ADC9" width="70%" alt="Kailash's GitHub contribution streak. Open the GitHub profile if this service is unavailable." />
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/mrdevil42023">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdevil42023&amp;bg_color=171522&amp;color=D1CCDF&amp;line=EFB4D0&amp;point=C6B5F4&amp;area=true&amp;area_color=8E6597&amp;hide_border=true&amp;radius=20&amp;custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="Kailash's recent GitHub contribution activity. Open the GitHub profile to view contributions directly." />
-  </a>
-</p>
+## 01 / SKILLS
 
-<p align="center">
-  <a href="https://github.com/mrdevil42023">
-    <img src="./assets/footer.svg" width="100%" alt="Build, learn, ship, repeat — visit @mrdevil42023 on GitHub." />
-  </a>
-</p>
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="42"><br>Python | <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="42"><br>TypeScript | <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="42"><br>JavaScript | <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"><br>React |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42"><br>React Native | <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="42"><br>Supabase | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="42"><br>Git | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"><br>GitHub |
+| <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="42"><br>SQL | <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="42"><br>Windows | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="42"><br>Linux |
+
+</div>
+
+---
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br><br>
+
+## 02 / GITHUB ACTIVITY
+
+<img
+  src="https://streak-stats.demolab.com?user=mrdevil42023&theme=dark&hide_border=true&background=050505&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
+  width="80%"
+  alt="GitHub Contribution Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mrdevil42023&bg_color=050505&color=FFFFFF&line=FF2020&point=FF4040&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
+  width="95%"
+  alt="GitHub Contribution Activity"
+/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br><br>
+
+<div align="center">
+
+<a href="https://github.com/mrdevil42023">
+
+<img src="https://img.shields.io/badge/GITHUB-@mrdevil42023-050505?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=050505" alt="GitHub profile" />
+
+</a>
+
+<br>
+
+### BUILD · LEARN · SHIP · REPEAT
+
+</div>
